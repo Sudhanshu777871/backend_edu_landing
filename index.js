@@ -31,6 +31,6 @@ app.post('/contact', (req, res) => {
 
 
 // listing app
-app.listen(process.env.PORT_NAME)
+app.listen(process.env.PORT)
 
 
